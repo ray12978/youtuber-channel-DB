@@ -6,6 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @Controller
+//@RequestMapping("/static")
 public class SpringBootHW {
     public static void main(String[] args) {
         // TODO Auto-generated method stub
